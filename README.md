@@ -1,3 +1,3 @@
-# LAB 1 - Requirement Analysis
+# LAB 01 - Requirement Analysis
 ## Task
-Use	case diagram and use case (UC) specification for the Case Study AIMS.
+Use	case diagram and use case (UC) outlines for the Case Study AIMS.
