@@ -67,7 +67,7 @@
 
 5b. Customers updates the information 
 
-## "Select Rush Order Delivery" Use Case
+## "Place Rush Order" Use Case
 - Use case ID: UC003
 - Name of use case: Select rush order delivery
 - Actor: Customer
