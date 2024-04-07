@@ -5,4 +5,4 @@
 # Lab 04-05 - Architectural Design
 - Sequence diagram for 3 UC: Place Order, Pay Order and Place Rush Order of the Case Study AIMS.
 # Lab 06 - Detailed Design
-- GUI desgin, Screen Specification
+- GUI desgin, Screen specification, configuration for AIMS
